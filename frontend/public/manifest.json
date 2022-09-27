@@ -1,0 +1,8 @@
+{
+  "short_name": "Simple crud frontend",
+  "name": "Simple crud frontend",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
